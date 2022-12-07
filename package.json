@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "generouted": "github:swernerx/generouted#fix/optional-loaders-and-default-error-component",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4"
